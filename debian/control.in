@@ -1,0 +1,10 @@
+Package: audiobible-shmueloff-darkknox2
+Version: @VERSION@
+Architecture: all
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Installed-Size: @SIZE@
+Section: sound
+Priority: optional
+Description: Abraham Shmueloff's voice cloned with DarkKnox2, split per verse
+ Per-verse split of Abraham Shmueloff's recordings, voice-cloned via
+ DarkKnox2, with word-level alignment data.
