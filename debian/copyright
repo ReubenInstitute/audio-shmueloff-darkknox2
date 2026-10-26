@@ -1,8 +1,0 @@
-Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: audiobible-verses-shmueloff-darkknox2
-Source: https://github.com/ReubenInstitute/audiobible-verses-shmueloff-darkknox2
-
-Files: *
-Copyright: 2026 Reuben Institute
-License: none
- Abraham Shmueloff's voice cloned with DarkKnox2, split per verse. No license claimed.
